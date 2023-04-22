@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	ignorecase = true
+[remote "Addressbook"]
+	url = ryoung75@http://github.com/ryoung75/Addressbook.git
+	fetch = +refs/heads/*:refs/remotes/Addressbook/*
